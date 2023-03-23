@@ -2,7 +2,13 @@ New string
 
 AAA
 
+<<<<<<< HEAD
 SSS
 
 
 New line for merge
+=======
+QQQQQQQQQQQQQQQQQQQQQQQQQ
+
+SSS
+>>>>>>> master
