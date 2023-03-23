@@ -1,7 +1,1 @@
-New string
-
-AAA
-
-QQQQQQQQQQQQQQQQQQQQQQQQQ
-
-SSS
+New line for merge merge merge
